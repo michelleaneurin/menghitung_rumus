@@ -41,3 +41,8 @@ public class main {
         scanner.close();
     }
 }
+
+
+// git remote add origin https://github.com/michelleaneurin/menghitung-rumus-fisika.git
+// git branch -M main
+// git push -u origin main
